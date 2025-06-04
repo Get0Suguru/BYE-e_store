@@ -18,22 +18,22 @@ A full-stack e-commerce application with product management, cart, and search fe
 ## 📸 Screenshots
 
 ### 🛍️ Product Listing (Customer)
-![Customer Products](./BYE - e_store/screenshots/products.png)
+![Customer Products](./screenshots/products.png)
 
 ---
 
 ### 🧑‍💻 Add Products
-![Add Product CRUD](./BYE - e_store/screenshots/add_products.png)
+![Add Product CRUD](./screenshots/add_products.png)
 
 ---
 
 ###  Product View
-![Product View](./BYE - e_store/screenshots/product_view.png)
+![Product View](./screenshots/product_view.png)
 
 ---
 
 ###  Search
-![Search](./BYE - e_store/screenshots/search.png)
+![Search](./screenshots/search.png)
 
 
 ## ⚙️ Tech Stack
