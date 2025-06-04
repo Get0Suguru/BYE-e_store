@@ -1,4 +1,4 @@
-﻿# BYE---e_store
+﻿﻿# BYE---e_store
 # 🛒 E-Commerce App – Spring Boot + React
 
 A full-stack e-commerce application with product management, cart, and search features.
