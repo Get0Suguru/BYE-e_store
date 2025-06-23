@@ -1,7 +1,7 @@
 ﻿﻿# BYE---e_store
 # 🛒 E-Commerce App – Spring Boot + React
 
-A full-stack e-commerce application with product management, cart, and search features.
+BYE-e_store is a backend + frontend service for an e-commerce platform, built using Java, Spring Boot framework and React. The project is structured to provide a robust foundation for managing products and supporting typical e-commerce operations.
 
 ---
 
